@@ -21,7 +21,7 @@ This is a Bunny Hop (Bhop) script for Counter-Strike 2 (CS2) that automates jump
 
 1. **Ensure that Counter-Strike 2 (cs2.exe) is running.**
 
-2. **Run the script executable**
+2. **Run the executable**
 
     ```bash
     Ollubhop.exe
