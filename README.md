@@ -47,9 +47,6 @@ The script works by:
 The script includes error handling for various exceptions, including process not found, module not found, memory read/write errors, and more.
 
 
-## License
-
-
 ## Disclaimer
 
 This script is for educational purposes only. Use it at your own risk. The author is not responsible for any consequences resulting from the use of this script, including but not limited to game bans or other punitive actions by game administrators.
